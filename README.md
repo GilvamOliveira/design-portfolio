@@ -20,9 +20,17 @@ Landing page para uma marca de sucos, com apresentação da proposta, benefício
 
 `Desktop` `Landing page` · [Abrir protótipo](https://www.figma.com/proto/RJVtCmTlkKkB4TyPEhvr4d/Juice-Website?node-id=1-3&p=f&t=dDor3AnhQU1tzpVv-0&scaling=contain&content-scaling=responsive&page-id=0%3A1)
 
+### VeganBowl
+
+[![Prévia do VeganBowl](previews/03-vegan-bowl.png)](https://www.figma.com/proto/c8bJfn9QsWXJBpqcTRuCAS/VeganBowl?node-id=1-2&p=f&t=qMAAArXioWthGkBd-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)
+
+Landing page para um restaurante de saladas e bowls veganos, com apresentação, benefícios, cardápio filtrável, seção sobre e formulário de contato.
+
+`Desktop` `Landing page` · [Abrir protótipo](https://www.figma.com/proto/c8bJfn9QsWXJBpqcTRuCAS/VeganBowl?node-id=1-2&p=f&t=qMAAArXioWthGkBd-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)
+
 ### Animais — Guia de Classificação
 
-[![Prévia do guia de classificação dos animais](previews/03-animais.png)](https://www.figma.com/proto/KpufKhgpqsohceI4opJVo9/Animais---Guia-de-Classifica%C3%A7%C3%A3o?node-id=1-24&p=f&t=xdU3OWt4MM4Akvin-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
+[![Prévia do guia de classificação dos animais](previews/04-animais.png)](https://www.figma.com/proto/KpufKhgpqsohceI4opJVo9/Animais---Guia-de-Classifica%C3%A7%C3%A3o?node-id=1-24&p=f&t=xdU3OWt4MM4Akvin-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
 
 Página educativa sobre a classificação dos animais, com introdução, grupos de invertebrados e vertebrados, tabela comparativa e fontes.
 
@@ -30,7 +38,7 @@ Página educativa sobre a classificação dos animais, com introdução, grupos 
 
 ### Food Delivery
 
-[![Prévia do aplicativo de delivery](previews/04-food-delivery.png)](https://www.figma.com/proto/hQKA3noB1ybNx6BuCwkMET/Food-Delivery?node-id=16-2&p=f&t=uGlmaAG1FJ69Y28n-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
+[![Prévia do aplicativo de delivery](previews/05-food-delivery.png)](https://www.figma.com/proto/hQKA3noB1ybNx6BuCwkMET/Food-Delivery?node-id=16-2&p=f&t=uGlmaAG1FJ69Y28n-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
 
 Fluxo mobile de um aplicativo de delivery, com tela de apresentação, cadastro e catálogo organizado por categorias.
 
@@ -38,7 +46,7 @@ Fluxo mobile de um aplicativo de delivery, com tela de apresentação, cadastro 
 
 ### Jardinagem
 
-[![Prévia da landing page de jardinagem](previews/05-jardinagem.png)](https://www.figma.com/proto/SEUxnY5bOKKsCGPEQKtJ2u/Jardinagem?node-id=2-2&t=dERPPOeRGDLRM0Z1-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A2)
+[![Prévia da landing page de jardinagem](previews/06-jardinagem.png)](https://www.figma.com/proto/SEUxnY5bOKKsCGPEQKtJ2u/Jardinagem?node-id=2-2&t=dERPPOeRGDLRM0Z1-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A2)
 
 Landing page para um serviço de jardinagem, com proposta principal, benefícios, apresentação do aplicativo e chamada para contato.
 
@@ -46,7 +54,7 @@ Landing page para um serviço de jardinagem, com proposta principal, benefícios
 
 ### Carros
 
-[![Prévia da landing page automotiva](previews/06-carros.png)](https://www.figma.com/proto/CUWpr0dByNFega8x2F3CjG/Carros?node-id=2-4&p=f&t=pCCB1m5q7qPVEpxn-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A4)
+[![Prévia da landing page automotiva](previews/07-carros.png)](https://www.figma.com/proto/CUWpr0dByNFega8x2F3CjG/Carros?node-id=2-4&p=f&t=pCCB1m5q7qPVEpxn-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A4)
 
 Landing page automotiva com hero de impacto, vitrine de modelos, recursos de performance, indicadores e chamada final.
 
@@ -54,7 +62,7 @@ Landing page automotiva com hero de impacto, vitrine de modelos, recursos de per
 
 ### Daccord
 
-[![Prévia da interface Daccord](previews/07-daccord.png)](https://www.figma.com/proto/W0uyTJS7U3skQI03PsrpHC/Daccord?node-id=2-2&p=f&t=KKmgQ1899FFLpGHU-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
+[![Prévia da interface Daccord](previews/08-daccord.png)](https://www.figma.com/proto/W0uyTJS7U3skQI03PsrpHC/Daccord?node-id=2-2&p=f&t=KKmgQ1899FFLpGHU-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
 
 Interface de comunidade no estilo dashboard, com navegação lateral, comunidades em destaque, conteúdos populares e atividade recente.
 
